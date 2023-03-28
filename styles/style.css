@@ -33,4 +33,10 @@ nav ul li a{
     color: #fff;
     font-size: 17px;
     text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+a.active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
 }
