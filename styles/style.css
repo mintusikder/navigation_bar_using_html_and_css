@@ -13,7 +13,7 @@ nav{
     height: 80px;
     width: 100%;
 }
-.logo{
+label.logo{
     color: white;
     font-size: 35px;
     line-height: 80px;
@@ -24,7 +24,8 @@ nav ul{
     float: right;
     margin-right: 20px;
 }
-nav ul li{
+/* nav ul li{
     display: inline-block;
     line-height: 80px;
-}
+    margin: 0 5px;
+} */
