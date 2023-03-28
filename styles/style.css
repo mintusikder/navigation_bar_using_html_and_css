@@ -111,3 +111,8 @@ a:hover {
         left: 0;
     }
 }
+body{
+    background: url(../images/bg.jpg) no-repeat;
+    background-size: cover;
+    height: calc(100hv - 80px);
+}
